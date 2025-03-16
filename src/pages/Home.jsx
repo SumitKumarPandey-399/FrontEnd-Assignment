@@ -25,7 +25,7 @@ console.log(items,'items')
 
   return (
     <div className="home">
-      <h2>Posts List</h2>
+      <h2>Products List</h2>
       <input
         type="text"
         placeholder="Search by title..."
